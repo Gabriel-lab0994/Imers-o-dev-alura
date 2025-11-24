@@ -1,0 +1,1145 @@
+[
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinic,copacabana",
+    "nome_clinica": "Clínica Médica Popular S/A",
+    "bairro_cidade": "Copacabana, Rio de Janeiro",
+    "endereco": "Rua Siqueira Campos, 43, Sala 101",
+    "horario_funcionamento": "Segunda a Sábado: 7h30 - 19h",
+    "telefone": "(21) 3228-5000",
+    "especialidades": [
+      "Clínica Geral",
+      "Pediatria",
+      "Ginecologia",
+      "Otorrinolaringologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Siqueira+Campos,+43,+Copacabana,+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?medical,center,niteroi",
+    "nome_clinica": "Centro Médico Niterói",
+    "bairro_cidade": "Icaraí, Niterói",
+    "endereco": "Rua Gavião Peixoto, 129",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 20h",
+    "telefone": "(21) 3602-1100",
+    "especialidades": [
+      "Cardiologia",
+      "Dermatologia",
+      "Endocrinologia",
+      "Nutrição",
+      "Angiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Gavião+Peixoto,+129,+Icaraí,+Niterói"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?saude,duque+de+caxias",
+    "nome_clinica": "Saúde da Família Caxias",
+    "bairro_cidade": "Centro, Duque de Caxias",
+    "endereco": "Avenida Presidente Vargas, 180",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 17h",
+    "telefone": "(21) 3774-8899",
+    "especialidades": [
+      "Odontologia",
+      "Fisioterapia",
+      "Clínica Médica"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Presidente+Vargas,+180,+Duque+de+Caxias"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinica,nova+iguaçu",
+    "nome_clinica": "Clínica Prime Saúde",
+    "bairro_cidade": "Centro, Nova Iguaçu",
+    "endereco": "Rua Governador Portela, 105",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 18h",
+    "telefone": "(21) 2768-4500",
+    "especialidades": [
+      "Ortopedia",
+      "Psicologia",
+      "Gastroenterologia",
+      "Reumatologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Governador+Portela,+105,+Nova+Iguaçu"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,sao+goncalo",
+    "nome_clinica": "Hospital Dia São Gonçalo",
+    "bairro_cidade": "Alcântara, São Gonçalo",
+    "endereco": "Rua Dr. Alfredo Backer, 700",
+    "horario_funcionamento": "Atendimento 24 horas",
+    "telefone": "(21) 2603-9000",
+    "especialidades": [
+      "Oftalmologia",
+      "Urologia",
+      "Cirurgia Geral",
+      "Anestesiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Dr.+Alfredo+Backer,+700,+São+Gonçalo"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,campos+dos+goytacazes",
+    "nome_clinica": "Vita Campos Especialidades",
+    "bairro_cidade": "Pelinca, Campos dos Goytacazes",
+    "endereco": "Rua Barão da Lagoa Dourada, 400",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(22) 2733-1010",
+    "especialidades": [
+      "Neurologia",
+      "Otorrinolaringologia",
+      "Pneumologia",
+      "Psiquiatria"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Barão+da+Lagoa+Dourada,+400,+Campos+dos+Goytacazes"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?medical,volta+redonda",
+    "nome_clinica": "Clínica Harmonia",
+    "bairro_cidade": "Aterrado, Volta Redonda",
+    "endereco": "Rua Quarenta, 55",
+    "horario_funcionamento": "Segunda a Sexta: 8h30 - 18h",
+    "telefone": "(24) 3348-2000",
+    "especialidades": [
+      "Acupuntura",
+      "Medicina do Trabalho",
+      "Clínica Geral",
+      "Nutrição"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Quarenta,+55,+Volta+Redonda"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,petropolis",
+    "nome_clinica": "Petrópolis Saúde Total",
+    "bairro_cidade": "Centro, Petrópolis",
+    "endereco": "Rua do Imperador, 987, Sala 202",
+    "horario_funcionamento": "Segunda a Sábado: 8h - 16h",
+    "telefone": "(24) 2243-7700",
+    "especialidades": [
+      "Ginecologia",
+      "Pediatria",
+      "Dermatologia",
+      "Angiologia",
+      "Endocrinologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+do+Imperador,+987,+Petrópolis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinica,terezopolis",
+    "nome_clinica": "Teresópolis Bem Estar",
+    "bairro_cidade": "Várzea, Teresópolis",
+    "endereco": "Avenida Lúcio Meira, 650",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(21) 2742-1500",
+    "especialidades": [
+      "Fisioterapia",
+      "Nutrição",
+      "Clínica Médica",
+      "Geriatria"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Lúcio+Meira,+650,+Teresópolis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,angra+dos+reis",
+    "nome_clinica": "Angra Médica",
+    "bairro_cidade": "Centro, Angra dos Reis",
+    "endereco": "Rua Coronel Carvalho, 25",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(24) 3365-1122",
+    "especialidades": [
+      "Traumatologia",
+      "Clínica Geral",
+      "Radiologia",
+      "Psicologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Coronel+Carvalho,+25,+Angra+dos+Reis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinica,cabo+frio",
+    "nome_clinica": "Cabo Frio Médica",
+    "bairro_cidade": "Centro, Cabo Frio",
+    "endereco": "Av. Assunção, 1000",
+    "horario_funcionamento": "Segunda a Sábado: 7h30 - 17h30",
+    "telefone": "(22) 2643-5500",
+    "especialidades": [
+      "Urologia",
+      "Cardiologia",
+      "Cirurgia Plástica",
+      "Odontologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Av.+Assunção,+1000,+Cabo+Frio"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,nova+friburgo",
+    "nome_clinica": "Clínica Nova Friburgo",
+    "bairro_cidade": "Centro, Nova Friburgo",
+    "endereco": "Praça Getúlio Vargas, 10, Sala 501",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 19h",
+    "telefone": "(22) 2523-9900",
+    "especialidades": [
+      "Pediatria",
+      "Oftalmologia",
+      "Otorrinolaringologia",
+      "Fonoaudiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Praça+Getúlio+Vargas,+10,+Nova+Friburgo"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinic,rio+das+ostras",
+    "nome_clinica": "Rio das Ostras Clínicas",
+    "bairro_cidade": "Centro, Rio das Ostras",
+    "endereco": "Avenida Amazonas, 500",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 19h",
+    "telefone": "(22) 2764-8000",
+    "especialidades": [
+      "Ginecologia",
+      "Gastroenterologia",
+      "Clínica Geral"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Amazonas,+500,+Rio+das+Ostras"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?saude,macae",
+    "nome_clinica": "Centro de Saúde Macaé",
+    "bairro_cidade": "Cavaleiros, Macaé",
+    "endereco": "Avenida Atlântica, 1200",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 17h",
+    "telefone": "(22) 2796-1010",
+    "especialidades": [
+      "Dermatologia",
+      "Endocrinologia",
+      "Nefrologia",
+      "Clínica Geral",
+      "Imunologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Atlântica,+1200,+Macaé"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,barra+da+tijuca",
+    "nome_clinica": "Clínica Barra Sul",
+    "bairro_cidade": "Barra da Tijuca, Rio de Janeiro",
+    "endereco": "Avenida das Américas, 3950, Bloco 1",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 21h",
+    "telefone": "(21) 3385-2020",
+    "especialidades": [
+      "Ortopedia",
+      "Fisioterapia",
+      "Cardiologia",
+      "Pneumologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+das+Américas,+3950,+Barra+da+Tijuca,+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinic,sao+pedro+da+aldeia",
+    "nome_clinica": "Vida Plena São Pedro",
+    "bairro_cidade": "Centro, São Pedro da Aldeia",
+    "endereco": "Rua Nilo Peçanha, 30",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 18h",
+    "telefone": "(22) 2621-3030",
+    "especialidades": [
+      "Pediatria",
+      "Clínica Geral",
+      "Geriatria",
+      "Psicologia",
+      "Oftalmologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Nilo+Peçanha,+30,+São+Pedro+da+Aldeia"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,resende",
+    "nome_clinica": "Hospitalar Resende",
+    "bairro_cidade": "Centro, Resende",
+    "endereco": "Avenida Saturnino Braga, 150",
+    "horario_funcionamento": "Atendimento 24 horas",
+    "telefone": "(24) 3354-9900",
+    "especialidades": [
+      "Neurologia",
+      "Cirurgia Vascular",
+      "Cardiologia",
+      "Ortopedia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Saturnino+Braga,+150,+Resende"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?popular,araruama",
+    "nome_clinica": "Clínica Popular Araruama",
+    "bairro_cidade": "Centro, Araruama",
+    "endereco": "Rua Bernardo Vasconcelos, 80",
+    "horario_funcionamento": "Segunda a Sábado: 8h - 17h",
+    "telefone": "(22) 2665-1100",
+    "especialidades": [
+      "Clínica Médica",
+      "Ginecologia",
+      "Odontologia",
+      "Dermatologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Bernardo+Vasconcelos,+80,+Araruama"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinica,itaborai",
+    "nome_clinica": "Centro Médico Itaboraí",
+    "bairro_cidade": "Centro, Itaboraí",
+    "endereco": "Rua Antônio Silva, 45",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 16h",
+    "telefone": "(21) 2635-7070",
+    "especialidades": [
+      "Oftalmologia",
+      "Urologia",
+      "Gastroenterologia",
+      "Nutrição"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Antônio+Silva,+45,+Itaboraí"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?saude,paraty",
+    "nome_clinica": "Paraty Saúde",
+    "bairro_cidade": "Centro, Paraty",
+    "endereco": "Avenida Roberto Silveira, 10",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 18h",
+    "telefone": "(24) 3371-5500",
+    "especialidades": [
+      "Clínica Geral",
+      "Medicina do Viajante",
+      "Pediatria"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Roberto+Silveira,+10,+Paraty"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?dermatology,buzios",
+    "nome_clinica": "MedSaúde Búzios",
+    "bairro_cidade": "Geribá, Armação dos Búzios",
+    "endereco": "Rua das Pedras, 200",
+    "horario_funcionamento": "Terça a Sábado: 10h - 19h",
+    "telefone": "(22) 2623-1414",
+    "especialidades": [
+      "Dermatologia",
+      "Angiologia",
+      "Clínica Geral",
+      "Estética Médica"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+das+Pedras,+200,+Armação+dos+Búzios"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinica,nilopolis",
+    "nome_clinica": "Clínica Médica Nilópolis",
+    "bairro_cidade": "Centro, Nilópolis",
+    "endereco": "Rua Pedro Álvares Cabral, 500",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 17h",
+    "telefone": "(21) 2791-3030",
+    "especialidades": [
+      "Endocrinologia",
+      "Nutrição",
+      "Ginecologia",
+      "Cardiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Rua+Pedro+Álvares+Cabral,+500,+Nilópolis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?saude,madureira",
+    "nome_clinica": "Clínica Real Madureira",
+    "bairro_cidade": "Madureira, Rio de Janeiro",
+    "endereco": "Estrada do Portela, 99",
+    "horario_funcionamento": "Segunda a Sexta: 7h30 - 18h30",
+    "telefone": "(21) 3390-1122",
+    "especialidades": [
+      "Otorrinolaringologia",
+      "Pediatria",
+      "Clínica Geral",
+      "Fisioterapia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Estrada+do+Portela,+99,+Madureira,+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinic,sao+joao+de+meriti",
+    "nome_clinica": "Clínica São João",
+    "bairro_cidade": "Vilar dos Teles, São João de Meriti",
+    "endereco": "Avenida Presidente Lincoln, 88",
+    "horario_funcionamento": "Segunda a Sábado: 8h - 17h",
+    "telefone": "(21) 2756-4040",
+    "especialidades": [
+      "Cardiologia",
+      "Clínica Médica",
+      "Psiquiatria",
+      "Dermatologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Presidente+Lincoln,+88,+São+João+de+Meriti"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?hospital,tres+rios",
+    "nome_clinica": "Clínica Inter Sul",
+    "bairro_cidade": "Centro, Três Rios",
+    "endereco": "Avenida Alberto Lavinas, 10",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(24) 2252-6060",
+    "especialidades": [
+      "Ginecologia",
+      "Pediatria",
+      "Ortopedia",
+      "Odontologia",
+      "Urologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Avenida+Alberto+Lavinas,+10,+Três+Rios"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?hospital,rj",
+    "nome_clinica": "Hospital Copa D'Or",
+    "bairro_cidade": "Copacabana, Rio de Janeiro",
+    "endereco": "Rua Figueiredo de Magalhães, 870",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 2545-3600",
+    "especialidades": [
+      "Cardiologia",
+      "Oncologia",
+      "Neurologia",
+      "Ortopedia",
+      "Clínica Médica"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Copa+Dor+Rua+Figueiredo+de+Magalhaes+870+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?clinic,botafogo",
+    "nome_clinica": "Casa de Saúde São José",
+    "bairro_cidade": "Botafogo, Rio de Janeiro",
+    "endereco": "Rua Macedo Sobrinho, 21",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 2538-7600",
+    "especialidades": [
+      "Cirurgia Geral",
+      "Pediatria",
+      "Ginecologia",
+      "Gastroenterologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Casa+de+Saude+Sao+Jose+Rua+Macedo+Sobrinho+21+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?laboratory,niteroi",
+    "nome_clinica": "Clínica Felippe Mattoso",
+    "bairro_cidade": "Centro, Niterói",
+    "endereco": "Rua Quinze de Novembro, 8",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(21) 2620-8000",
+    "especialidades": [
+      "Radiologia",
+      "Medicina Nuclear",
+      "Ultrassonografia",
+      "Mamografia",
+      "Análises Clínicas"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Felippe+Mattoso+Rua+Quinze+de+Novembro+8+Niteroi"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?medical+center,gavea",
+    "nome_clinica": "Clínica São Vicente",
+    "bairro_cidade": "Gávea, Rio de Janeiro",
+    "endereco": "Rua João Borges, 204",
+    "horario_funcionamento": "Segunda a Sábado: 8h - 17h",
+    "telefone": "(21) 3232-4000",
+    "especialidades": [
+      "Psiquiatria",
+      "Fisioterapia",
+      "Clínica Médica",
+      "Endocrinologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Sao+Vicente+Rua+Joao+Borges+204+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?hospital,duque+de+caxias",
+    "nome_clinica": "Hospital Mário Lioni",
+    "bairro_cidade": "Centro, Duque de Caxias",
+    "endereco": "Rua General Antônio Sampaio, 25",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 3671-0000",
+    "especialidades": [
+      "Oftalmologia",
+      "Clínica Médica",
+      "Cirurgia Vascular",
+      "Pneumologia",
+      "Emergência"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Mario+Lioni+Rua+General+Antonio+Sampaio+25+Duque+de+Caxias"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?cardiology+hospital",
+    "nome_clinica": "Hospital Pró-Cardíaco",
+    "bairro_cidade": "Botafogo, Rio de Janeiro",
+    "endereco": "Rua General Polidoro, 192",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 3231-3000",
+    "especialidades": [
+      "Cardiologia",
+      "Hemodinâmica",
+      "Terapia Intensiva",
+      "Nutrição",
+      "Cirurgia Cardíaca"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Pro+Cardiaco+Rua+General+Polidoro+192+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?dermatology+clinic",
+    "nome_clinica": "Clínica da Gávea",
+    "bairro_cidade": "Gávea, Rio de Janeiro",
+    "endereco": "Av. Marquês de São Vicente, 420",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 18h",
+    "telefone": "(21) 3201-9000",
+    "especialidades": [
+      "Geriatria",
+      "Dermatologia",
+      "Ginecologia",
+      "Psicanálise"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+da+Gavea+Av+Marques+de+Sao+Vicente+420+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?emergency+hospital,nova+iguacu",
+    "nome_clinica": "Hospital Geral de Nova Iguaçu",
+    "bairro_cidade": "Centro, Nova Iguaçu",
+    "endereco": "Av. Henrique Duque Novaes, 95",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 3779-9000",
+    "especialidades": [
+      "Emergência",
+      "Cirurgia Plástica",
+      "Infectologia",
+      "Reumatologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Geral+de+Nova+Iguacu+Av+Henrique+Duque+Novaes+95+Nova+Iguacu"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?health+center,niteroi",
+    "nome_clinica": "Clínica São Lourenço",
+    "bairro_cidade": "Fonseca, Niterói",
+    "endereco": "Alameda São Boaventura, 62",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(21) 2717-1000",
+    "especialidades": [
+      "Medicina do Trabalho",
+      "Otorrinolaringologia",
+      "Fonoaudiologia",
+      "Exames Audiométricos"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Sao+Lourenco+Alameda+Sao+Boaventura+62+Niteroi"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?hospital,campos+dos+goytacazes",
+    "nome_clinica": "Santa Casa de Misericórdia",
+    "bairro_cidade": "Centro, Campos dos Goytacazes",
+    "endereco": "Rua Treze de Maio, 269",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(22) 2737-7000",
+    "especialidades": [
+      "Ginecologia",
+      "Obstetrícia",
+      "Clínica Médica",
+      "Pediatria",
+      "Cirurgia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Santa+Casa+de+Misericordia+Rua+Treze+de+Maio+269+Campos+dos+Goytacazes"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?unimed,volta+redonda",
+    "nome_clinica": "Hospital Unimed Volta Redonda",
+    "bairro_cidade": "Centro, Volta Redonda",
+    "endereco": "Rodovia Lúcio Meira, 1000",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(24) 3348-1000",
+    "especialidades": [
+      "Oncologia",
+      "Neurocirurgia",
+      "Gastroenterologia",
+      "Imunologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Unimed+Volta+Redonda+Rodovia+Lucio+Meira+1000+Volta+Redonda"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?physiotherapy,petropolis",
+    "nome_clinica": "Centro Médico Santa Teresa",
+    "bairro_cidade": "Bingen, Petrópolis",
+    "endereco": "Rua Doutor Paulo Hervê, 1177",
+    "horario_funcionamento": "Segunda a Sábado: 7h30 - 18h30",
+    "telefone": "(24) 2244-4000",
+    "especialidades": [
+      "Ortopedia",
+      "Fisioterapia",
+      "Acupuntura",
+      "Odontologia",
+      "Reabilitação"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+Medico+Santa+Teresa+Rua+Doutor+Paulo+Herve+1177+Petropolis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?pediatric+clinic",
+    "nome_clinica": "Clínica Doutor Ricardo",
+    "bairro_cidade": "Taquara, Rio de Janeiro",
+    "endereco": "Estrada do Tindiba, 952",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 20h",
+    "telefone": "(21) 3312-5000",
+    "especialidades": [
+      "Pediatria",
+      "Clínica Geral",
+      "Oftalmologia",
+      "Exames Laboratoriais"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Doutor+Ricardo+Estrada+do+Tindiba+952+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?public+hospital,sao+goncalo",
+    "nome_clinica": "Hospital Municipal Adão Pereira",
+    "bairro_cidade": "Centro, São Gonçalo",
+    "endereco": "Rua Doutor Getúlio Vargas, 26",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 3601-5000",
+    "especialidades": [
+      "Clínica Médica",
+      "Traumatologia",
+      "Emergência",
+      "Obstetrícia",
+      "Anestesiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Municipal+Adao+Pereira+Rua+Doutor+Getulio+Vargas+26+Sao+Goncalo"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?children+hospital",
+    "nome_clinica": "Prontobaby Hospital da Criança",
+    "bairro_cidade": "Tijuca, Rio de Janeiro",
+    "endereco": "Rua Conde de Bonfim, 255",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 2568-1500",
+    "especialidades": [
+      "Pediatria",
+      "Cirurgia Pediátrica",
+      "Neonatologia",
+      "Alergologia",
+      "Terapia Intensiva Pediátrica"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Prontobaby+Hospital+da+Crianca+Rua+Conde+de+Bonfim+255+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?ophthalmology,niteroi",
+    "nome_clinica": "Clínica de Olhos Dr. Marcelo Ventura",
+    "bairro_cidade": "Icaraí, Niterói",
+    "endereco": "Rua Ator Paulo Gustavo, 240",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 19h",
+    "telefone": "(21) 2711-6000",
+    "especialidades": [
+      "Oftalmologia",
+      "Cirurgia Refrativa",
+      "Exames Oculares",
+      "Retina"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+de+Olhos+Dr+Marcelo+Ventura+Rua+Ator+Paulo+Gustavo+240+Niteroi"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?hospital,resende",
+    "nome_clinica": "Hospital Santa Maria",
+    "bairro_cidade": "Centro, Resende",
+    "endereco": "Av. Albino de Almeida, 169",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(24) 3381-1200",
+    "especialidades": [
+      "Cardiologia",
+      "Dermatologia",
+      "Ginecologia",
+      "Radiologia",
+      "Urgência"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Santa+Maria+Av+Albino+de+Almeida+169+Resende"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?rehabilitation,teresopolis",
+    "nome_clinica": "Clínica Rio Fisio",
+    "bairro_cidade": "Centro, Teresópolis",
+    "endereco": "Rua Prefeito Sebastião Teixeira, 68",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(21) 2642-8800",
+    "especialidades": [
+      "Fisioterapia",
+      "Reabilitação",
+      "Ortopedia",
+      "Pilates",
+      "Cinesioterapia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Rio+Fisio+Rua+Prefeito+Sebastiao+Teixeira+68+Teresopolis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?surgery+hospital,cabo+frio",
+    "nome_clinica": "Hospital Santa Izabel",
+    "bairro_cidade": "Centro, Cabo Frio",
+    "endereco": "Av. Teixeira e Souza, 666",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(22) 2645-9900",
+    "especialidades": [
+      "Clínica Médica",
+      "Cirurgia Geral",
+      "UTI",
+      "Pediatria",
+      "Emergência"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Santa+Izabel+Av+Teixeira+e+Souza+666+Cabo+Frio"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?diagnostic+imaging,macae",
+    "nome_clinica": "Centro de Imagem Macaé",
+    "bairro_cidade": "Riviera Fluminense, Macaé",
+    "endereco": "Rua Abílio de Castro, 105",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 18h",
+    "telefone": "(22) 2796-1500",
+    "especialidades": [
+      "Ultrassonografia",
+      "Tomografia",
+      "Ressonância Magnética",
+      "Densitometria"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+de+Imagem+Macae+Rua+Abilio+de+Castro+105+Macae"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?hospital,meier",
+    "nome_clinica": "Hospital Pasteur",
+    "bairro_cidade": "Méier, Rio de Janeiro",
+    "endereco": "Av. Amaro Cavalcanti, 495",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 2599-2000",
+    "especialidades": [
+      "Clínica Médica",
+      "Geriatria",
+      "Cirurgia Torácica",
+      "Nefrologia",
+      "Hemodiálise"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Pasteur+Av+Amaro+Cavalcanti+495+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?cancer+center,campo+grande",
+    "nome_clinica": "Hospital Oeste Dor",
+    "bairro_cidade": "Campo Grande, Rio de Janeiro",
+    "endereco": "Estrada do Mendanha, 275",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 3820-2000",
+    "especialidades": [
+      "Cardiologia",
+      "Neurologia",
+      "Ortopedia",
+      "Cirurgia Oncológica",
+      "Terapia Intensiva"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+Oeste+Dor+Estrada+do+Mendanha+275+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?dental+clinic,tijuca",
+    "nome_clinica": "Clínica Sorriso Carioca",
+    "bairro_cidade": "Tijuca, Rio de Janeiro",
+    "endereco": "Praça Saens Peña, 45",
+    "horario_funcionamento": "Segunda a Sexta: 8h30 - 18h",
+    "telefone": "(21) 3211-1400",
+    "especialidades": [
+      "Odontologia",
+      "Endodontia",
+      "Ortodontia",
+      "Periodontia",
+      "Estética Dental"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Sorriso+Carioca+Praca+Saens+Pena+45+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?health+center,lagoa",
+    "nome_clinica": "Hospital da Lagoa",
+    "bairro_cidade": "Lagoa, Rio de Janeiro",
+    "endereco": "Rua Jardim Botânico, 646",
+    "horario_funcionamento": "24 Horas",
+    "telefone": "(21) 2334-0000",
+    "especialidades": [
+      "Psiquiatria",
+      "Oftalmologia",
+      "Dermatologia",
+      "Fisioterapia",
+      "Serviço Social"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Hospital+da+Lagoa+Rua+Jardim+Botanico+646+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/1600x900/?traumatology,barra+mansa",
+    "nome_clinica": "Clínica Rio Trauma",
+    "bairro_cidade": "Centro, Barra Mansa",
+    "endereco": "Rua Doutor Bezerra de Menezes, 12",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 17h",
+    "telefone": "(24) 3323-9000",
+    "especialidades": [
+      "Traumatologia",
+      "Ortopedia",
+      "Reabilitação",
+      "Fisioterapia",
+      "Medicina Esportiva"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Clinica+Rio+Trauma+Rua+Doutor+Bezerra+de+Menezes+12+Barra+Mansa"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?spinal,care,clinic",
+    "nome_clinica": "Clínica da Coluna Vertebral",
+    "bairro_cidade": "Botafogo, Rio de Janeiro",
+    "endereco": "Rua Voluntários da Pátria, 448, Sala 301",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 18h",
+    "telefone": "(21) 3550-7080",
+    "especialidades": [
+      "Ortopedia",
+      "Fisioterapia",
+      "Reumatologia",
+      "Acupuntura"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+da+Coluna+Vertebral+Rua+Volunt%C3%A1rios+da+P%C3%A1tria+448+Rio+de+Janeiro"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?eye,clinic,laser",
+    "nome_clinica": "Oftalmo Laser Clínica de Olhos",
+    "bairro_cidade": "Icaraí, Niterói",
+    "endereco": "Rua Doutor Paulo César, 142, Sala 1101",
+    "horario_funcionamento": "Segunda a Sábado: 8h - 17h",
+    "telefone": "(21) 2710-1007",
+    "especialidades": [
+      "Oftalmologia",
+      "Cirurgia Refrativa",
+      "Exames Oculares"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Oftalmo+Laser+Cl%C3%ADnica+de+Olhos+Rua+Doutor+Paulo+C%C3%A9sar+142+Niter%C3%B3i"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?pediatrics,internal,medicine",
+    "nome_clinica": "Clínica Saúde Mais Doutor",
+    "bairro_cidade": "Centro, Duque de Caxias",
+    "endereco": "Av. Doutor Manoel Teles, 500, Sala 702",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(21) 3939-0010",
+    "especialidades": [
+      "Pediatria",
+      "Ginecologia",
+      "Clínica Médica",
+      "Urologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Sa%C3%BAde+Mais+Doutor+Av.+Doutor+Manoel+Teles+500+Duque+de+Caxias"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?diagnostic,imaging",
+    "nome_clinica": "Centro de Imagem Iguaçu",
+    "bairro_cidade": "Centro, Nova Iguaçu",
+    "endereco": "Rua Coronel Bernardino de Melo, 2185",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 18h",
+    "telefone": "(21) 2667-8855",
+    "especialidades": [
+      "Radiologia",
+      "Ultrassonografia",
+      "Tomografia",
+      "Mamografia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+de+Imagem+Igua%C3%A7u+Rua+Coronel+Bernardino+de+Melo+2185+Nova+Igua%C3%A7u"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?health,prevention",
+    "nome_clinica": "Previna Clínica Médica",
+    "bairro_cidade": "Alcântara, São Gonçalo",
+    "endereco": "Rua Doutor Alfredo Backer, 477, Loja 101",
+    "horario_funcionamento": "Segunda a Sábado: 7h30 - 18h",
+    "telefone": "(21) 3705-1234",
+    "especialidades": [
+      "Endocrinologia",
+      "Gastroenterologia",
+      "Cardiologia",
+      "Dermatologia",
+      "Nutrição"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Previna+Cl%C3%ADnica+M%C3%A9dica+Rua+Doutor+Alfredo+Backer+477+S%C3%A3o+Gon%C3%A7alo"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?oncology",
+    "nome_clinica": "Onco Campos",
+    "bairro_cidade": "Centro, Campos dos Goytacazes",
+    "endereco": "Rua Conselheiro Otaviano, 269",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 17h",
+    "telefone": "(22) 2733-4000",
+    "especialidades": [
+      "Oncologia Clínica",
+      "Hematologia",
+      "Mastologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Onco+Campos+Rua+Conselheiro+Otaviano+269+Campos+dos+Goytacazes"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?clinic,petropolis",
+    "nome_clinica": "Clínica São Lucas Petrópolis",
+    "bairro_cidade": "Centro, Petrópolis",
+    "endereco": "Rua Doutor Nelson de Sá Earp, 95",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h30",
+    "telefone": "(24) 2244-9000",
+    "especialidades": [
+      "Oftalmologia",
+      "Otorrinolaringologia",
+      "Exames Laboratoriais",
+      "Clínica Geral"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+S%C3%A3o+Lucas+Petr%C3%B3polis+Rua+Doutor+Nelson+de+S%C3%A1+Earp+95+Petr%C3%B3polis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?diagnostic,center,imaging",
+    "nome_clinica": "CEDER Centro de Diagnóstico",
+    "bairro_cidade": "Vila Santa Cecília, Volta Redonda",
+    "endereco": "Rua 43, 220",
+    "horario_funcionamento": "Segunda a Sexta: 7h - 19h",
+    "telefone": "(24) 3348-1800",
+    "especialidades": [
+      "Ressonância Magnética",
+      "Densitometria Óssea",
+      "Medicina Nuclear",
+      "Ultrassonografia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=CEDER+Centro+de+Diagn%C3%B3stico+Rua+43+220+Volta+Redonda"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?physiotherapy,pilates",
+    "nome_clinica": "PROMED Saúde",
+    "bairro_cidade": "Centro, Cabo Frio",
+    "endereco": "Rua Doutor Moron, 273",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 19h",
+    "telefone": "(22) 2643-5566",
+    "especialidades": [
+      "Fisioterapia",
+      "Pilates",
+      "RPG",
+      "Acupuntura"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=PROMED+Sa%C3%BAde+Rua+Doutor+Moron+273+Cabo+Frio"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?occupational,health",
+    "nome_clinica": "CLIMEQ Clínica Médica",
+    "bairro_cidade": "Cavaleiros, Macaé",
+    "endereco": "Av. Atlântica, 2368",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 17h",
+    "telefone": "(22) 2772-1000",
+    "especialidades": [
+      "Medicina do Trabalho",
+      "Exames Ocupacionais",
+      "Clínica Geral"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=CLIMEQ+Cl%C3%ADnica+M%C3%A9dica+Av.+Atl%C3%A2ntica+2368+Maca%C3%A9"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?therapy,psychology",
+    "nome_clinica": "Centro Médico Teresópolis (CMT)",
+    "bairro_cidade": "Várzea, Teresópolis",
+    "endereco": "Av. Lúcio Meira, 606, Sala 201",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(21) 2742-0000",
+    "especialidades": [
+      "Psiquiatria",
+      "Psicologia",
+      "Neurologia",
+      "Fonoaudiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+M%C3%A9dico+Teres%C3%B3polis+Av.+L%C3%BAcio+Meira+606+Teres%C3%B3polis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?lab,odontology",
+    "nome_clinica": "Clínica da Cidade Resende",
+    "bairro_cidade": "Campos Elíseos, Resende",
+    "endereco": "Av. Marcílio Dias, 171",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 18h",
+    "telefone": "(24) 3354-1010",
+    "especialidades": [
+      "Exames Laboratoriais",
+      "Odontologia",
+      "Angiologia",
+      "Endocrinologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+da+Cidade+Resende+Av.+Marc%C3%ADlio+Dias+171+Resende"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?plastic,surgery,dermatology",
+    "nome_clinica": "Clínica Médica Dr. Ricardo Diniz",
+    "bairro_cidade": "Centro, Angra dos Reis",
+    "endereco": "Rua Coronel Carvalho, 235",
+    "horario_funcionamento": "Segunda a Sexta: 8h30 - 17h30",
+    "telefone": "(24) 3365-1500",
+    "especialidades": [
+      "Cirurgia Plástica",
+      "Dermatologia Estética",
+      "Clínica Geral",
+      "Nutrologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+M%C3%A9dica+Dr.+Ricardo+Diniz+Rua+Coronel+Carvalho+235+Angra+dos+Reis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?womens,health,pediatrics",
+    "nome_clinica": "PROFILAXIS Friburgo",
+    "bairro_cidade": "Centro, Nova Friburgo",
+    "endereco": "Rua Monsenhor Miranda, 39, Sala 101",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 19h",
+    "telefone": "(22) 2523-2200",
+    "especialidades": [
+      "Ginecologia",
+      "Obstetrícia",
+      "Pediatria",
+      "Clínica Médica"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=PROFILAXIS+Friburgo+Rua+Monsenhor+Miranda+39+Nova+Friburgo"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?orthopedics,rehabilitation",
+    "nome_clinica": "Centro Médico Ostras",
+    "bairro_cidade": "Centro, Rio das Ostras",
+    "endereco": "Rua Búzios, 127",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(22) 2764-1122",
+    "especialidades": [
+      "Ortopedia",
+      "Reumatologia",
+      "Traumatologia",
+      "Fisioterapia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+M%C3%A9dico+Ostras+Rua+B%C3%BAzios+127+Rio+das+Ostras"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?popular,clinic,itaborai",
+    "nome_clinica": "Clínica Popular Itaboraí",
+    "bairro_cidade": "Centro, Itaboraí",
+    "endereco": "Rua Doutor Mesquita, 255",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 19h",
+    "telefone": "(21) 3639-4000",
+    "especialidades": [
+      "Odontologia",
+      "Exames de Imagem",
+      "Clínica Geral",
+      "Cardiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Popular+Itabora%C3%AD+Rua+Doutor+Mesquita+255+Itabora%C3%AD"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?nutrition,therapy",
+    "nome_clinica": "CEMIN Centro Médico",
+    "bairro_cidade": "Centro, Nilópolis",
+    "endereco": "Rua Professor Alfredo Gonçalves Figueira, 107",
+    "horario_funcionamento": "Segunda a Sexta: 7h30 - 17h",
+    "telefone": "(21) 3760-5000",
+    "especialidades": [
+      "Nutrição",
+      "Psicologia",
+      "Fisioterapia",
+      "Acupuntura",
+      "Endocrinologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=CEMIN+Centro+M%C3%A9dico+Rua+Professor+Alfredo+Gon%C3%A7alves+Figueira+107+Nil%C3%B3polis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?cardiology,pneumology",
+    "nome_clinica": "Saúde Vida Mesquita",
+    "bairro_cidade": "Centro, Mesquita",
+    "endereco": "Avenida Getúlio de Moura, 1912",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(21) 2796-9000",
+    "especialidades": [
+      "Cardiologia",
+      "Pneumologia",
+      "Otorrinolaringologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Sa%C3%BAde+Vida+Mesquita+Avenida+Get%C3%BAlio+de+Moura+1912+Mesquita"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?laboratory,ophthalmology",
+    "nome_clinica": "Clínica da Cidade Meriti",
+    "bairro_cidade": "Centro, São João de Meriti",
+    "endereco": "Avenida Automóvel Clube, 2465",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 19h",
+    "telefone": "(21) 3753-1200",
+    "especialidades": [
+      "Exames Laboratoriais",
+      "Oftalmologia",
+      "Ginecologia",
+      "Gastroenterologia",
+      "Clínica Geral"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+da+Cidade+Meriti+Avenida+Autom%C3%B3vel+Clube+2465+S%C3%A3o+Jo%C3%A3o+de+Meriti"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?pediatrics,general,practice",
+    "nome_clinica": "Centro de Saúde Araruama",
+    "bairro_cidade": "Centro, Araruama",
+    "endereco": "Av. Nilo Peçanha, 125, Loja A",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 17h",
+    "telefone": "(22) 2665-3030",
+    "especialidades": [
+      "Clínica Geral",
+      "Pediatria",
+      "Dermatologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+de+Sa%C3%BAde+Araruama+Av.+Nilo+Pe%C3%A7anha+125+Araruama"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?dental,care,buzios",
+    "nome_clinica": "Clínica Búzios Saúde",
+    "bairro_cidade": "Centro, Armação dos Búzios",
+    "endereco": "Rua Manoel Turíbio de Farias, 301",
+    "horario_funcionamento": "Segunda a Sábado: 9h - 19h",
+    "telefone": "(22) 2623-1100",
+    "especialidades": [
+      "Odontologia",
+      "Fisioterapia",
+      "Nutrição",
+      "Clínico Geral"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+B%C3%BAzios+Sa%C3%BAde+Rua+Manoel+Tur%C3%ADbio+de+Farias+301+Arma%C3%A7%C3%A3o+dos+B%C3%BAzios"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?geriatric,allergy",
+    "nome_clinica": "Policlínica Petrópolis",
+    "bairro_cidade": "Itaipava, Petrópolis",
+    "endereco": "Estrada União e Indústria, 10000, Loja 110",
+    "horario_funcionamento": "Segunda a Sexta: 9h - 17h",
+    "telefone": "(24) 2222-7777",
+    "especialidades": [
+      "Geriatria",
+      "Alergologia",
+      "Reumatologia",
+      "Oftalmologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Policl%C3%ADnica+Petr%C3%B3polis+Estrada+Uni%C3%A3o+e+Ind%C3%BAstria+10000+Petr%C3%B3polis"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?vascular,pediatrics",
+    "nome_clinica": "Centro Médico Barra Mansa (CEMEB)",
+    "bairro_cidade": "Centro, Barra Mansa",
+    "endereco": "Avenida Joaquim Leite, 532, Sala 201",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(24) 3323-9988",
+    "especialidades": [
+      "Ginecologia",
+      "Cardiologia",
+      "Cirurgia Vascular",
+      "Pediatria"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Centro+M%C3%A9dico+Barra+Mansa+Avenida+Joaquim+Leite+532+Barra+Mansa"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?laboratory,ultrasound",
+    "nome_clinica": "Clínica Vida Itaguaí",
+    "bairro_cidade": "Centro, Itaguaí",
+    "endereco": "Rua Doutor Curvelo Cavalcanti, 345",
+    "horario_funcionamento": "Segunda a Sábado: 7h - 19h",
+    "telefone": "(21) 3782-0505",
+    "especialidades": [
+      "Clínica Médica",
+      "Exames Laboratoriais",
+      "Ultrassonografia",
+      "Fisioterapia",
+      "Dermatologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Vida+Itagua%C3%AD+Rua+Doutor+Curvelo+Cavalcanti+345+Itagua%C3%AD"
+  },
+  {
+    "imagem_clinica": "https://source.unsplash.com/featured/?popular,clinic,rj",
+    "nome_clinica": "Doutor Popular Queimados",
+    "bairro_cidade": "Centro, Queimados",
+    "endereco": "Avenida Doutor Pedro Jorge, 200",
+    "horario_funcionamento": "Segunda a Sexta: 8h - 18h",
+    "telefone": "(21) 3699-1000",
+    "especialidades": [
+      "Odontologia",
+      "Oftalmologia",
+      "Ginecologia",
+      "Clínica Geral",
+      "Cardiologia"
+    ],
+    "link_maps": "https://www.google.com/maps/search/?api=1&query=Doutor+Popular+Queimados+Avenida+Doutor+Pedro+Jorge+200+Queimados"
+  }
+]

@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #2e7dfa;
+    --secondery-color: #ffffff;
+    --bg-color:#fafafa;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--secondery-color);
+    font-family: "Inter", sans-serif;
+}
+
+header {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    gap: 1rem;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: var(--secondery-color);
+    font-weight: 700;
+}
+
+div input {
+    padding: 0.375rem 0.75rem;
+    border-radius: 1rem;
+    border: solid 1px var(--secondery-color);
+    font-family: inherit;
+    font-size: 1.5rem;
+    transition: all 0.3s ease-in-out;
+    width: 30rem;
+    color: var(--secondery-color);
+    background-color: var(--primary-color);
+    margin-right: .5rem;
+}
+
+div input::placeholder {
+    color: var(--secondery-color);
+    font-size: 1.2rem;
+}
+
+div input:focus {
+    outline: none;
+    box-shadow: 0 0 5px var(--secondery-color);
+}
+
+#botao-busca {
+    padding: 0.375rem 1rem;
+    border-radius: .5rem;
+    border: none;
+    background-color:var(--primary-color);
+    color: var(--secondery-color);
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#botao-busca:hover {
+    background-color: var(--secondery-color);
+    color: var(--primary-color);
+}
+
+main {
+    max-width: 80rem; /* Largura máxima do conteúdo principal */
+    margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
+    margin-top: 2rem; /* Margem no topo */
+    padding: 2rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+
+.nav-slider {
+    position: relative;
+    top: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.nav-btn {
+    border: none;
+    background: var(--primary-color);
+    color: white;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-btn:hover {
+    background: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+main nav {
+    width: 100%;
+    max-width: 960px;
+    overflow: hidden; /* impede vazar conteúdo */
+}
+
+main nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+
+    /* ESSENCIAL PARA DESLIZAR */
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;  /* impede quebrar linha */
+    padding: 0.5rem 0;
+
+    /* remove o esticamento que atrapalha o slider */
+    justify-content: flex-start;
+}
+
+main nav ul::-webkit-scrollbar {
+    display: none; /* opcional: esconder a barra */
+}
+
+main nav ul li {
+    padding: 0.5rem 1rem;
+    width: 10rem;
+    border-radius: 1rem;
+    background-color: var(--primary-color);
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+    flex-shrink: 0; /* ESSENCIAL para slider não quebrar */
+}
+
+main nav ul li:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    border: #2e7dfa solid 1px;
+}
+
+.card-container {
+    width: 100%;
+    max-width: 960px;
+    display: grid; /* ESSENCIAL para o grid funcionar */
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+ /* Força 2 cards por linha por padrão */
+grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin: 0 auto; /* Centraliza o container */
+    box-sizing: border-box;
+    align-items: stretch;
+}
+
+.card {
+    background-color: var(--primary-color);
+    width: 100%;
+    height: auto;
+    min-height: 12rem;
+    color: var(--secondary-color); /* corrigido */
+    border-radius: 1rem;
+    padding: 0.75rem;
+    overflow: hidden;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 0.75rem;
+    transition: transform 0.3s ease-in-out;
+    align-items: stretch;
+}
+
+.card:hover {
+    transform: translateY(-3px)
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    align-self: stretch;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    border-radius: 0.75rem;
+    object-fit: cover;
+    display: block;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 0.35rem;
+    padding: 0.25rem 0.4rem;
+    min-width: 0; /* importante para truncamento em flex/grid */
+}
+
+.card-info h2 {
+    font-size: 1.05rem;
+    line-height: 1.1;
+    margin-bottom: 0.125rem;
+    font-weight: 700;
+    color: #fff;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-info p {
+    font-size: 0.88rem;
+    color: rgba(255,255,255,0.95);
+    margin-bottom: 0.125rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* especialidades: permitir quebra e manter pequeno */
+.card-info p:last-of-type {
+    font-size: 0.82rem;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    white-space: normal;
+    line-height: 1.1;
+}
+
+/* botão: usar classe e respeitar largura do card */
+#botao-maps, .botao-maps {
+    padding: 0.45rem 0.75rem;
+    border-radius: .5rem;
+    border: none;
+    background-color: var(--secondery-color);
+    color: var(--primary-color);
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    width: 100%;
+    max-width: 160px;
+    align-self: start;
+}
+
+#botao-maps:hover, .botao-maps:hover {
+    background-color: var(--primary-color);
+    color: var(--secondery-color);
+    border: var(--secondery-color) solid 1px;
+}
+
+footer {
+    background-color: var(--primary-color);
+    width: 100%;
+    padding: 1rem;
+    height: 10rem;
+
+    text-align: center;
+
+    color: var(--secondery-color);
+}

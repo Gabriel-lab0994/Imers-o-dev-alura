@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Procurar Clinica</title>
+</head>
+<body>
+    <!--Cabeçalho com a barra de busca-->
+    <header>
+        <h1>Procurar clinicas</h1>
+        <div class="buscar">
+            <input type="text" placeholder="Escreva o nome de sua cidade no Rio de Janeiro..." id="input-busca">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <!--Vai ter uma nav com possiveis filtragens e os cards das clinicas-->
+        <div class="nav-slider">
+         <button class="nav-btn prev">&#10094;</button>
+        <nav>
+            <ul>
+            </ul>
+        </nav>
+        <button class="nav-btn next">&#10095;</button>
+        </div>
+
+        <section class="card-container">
+        </section>
+    </main>
+
+    <footer>
+        <p>@2025 Todos os direitos reservados.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

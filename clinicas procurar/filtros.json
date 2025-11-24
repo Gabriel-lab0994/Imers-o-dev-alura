@@ -1,0 +1,68 @@
+[
+    {
+        "tipo": "pediatra"
+    },
+    {
+        "tipo": "dermatologista"
+    },
+    {
+        "tipo": "cardiologista"
+    },
+    {
+        "tipo": "ginecologista"
+    },
+    {
+        "tipo": "ortopedista"
+    },
+    {
+        "tipo": "neurologista"
+    },
+    {
+        "tipo": "psicologo"
+    },
+    {
+        "tipo": "nutricionista"
+    },
+    {
+        "tipo": "odontologista"
+    },
+    {
+        "tipo": "oftalmologista"
+    },
+    {
+        "tipo": "endocrinologista"
+    },
+    {
+        "tipo": "urologista"
+    },
+    {
+        "tipo": "otorrinolaringologista"
+    },
+    {
+        "tipo": "reumatologista"
+    },
+    {
+        "tipo": "hematologista"
+    },
+    {
+        "tipo": "gastroenterologista"
+    },
+    {
+        "tipo": "nefrologista"
+    },
+    {
+        "tipo": "pneumologista"
+    },
+    {
+        "tipo": "radiologista"
+    },
+    {
+        "tipo": "anestesiologista"
+    },
+    {
+        "tipo": "cirurgiao"
+    },  
+    {
+        "tipo": "medico de familia"
+    }
+]
